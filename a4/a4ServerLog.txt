@@ -1,0 +1,84 @@
+Date and Time: Sun Dec  3 16:02:44 2017
+PID: 15199
+TID: 3930701056
+String from Client: SELECT * from `classics`
+Date and Time: Sun Dec  3 16:02:45 2017
+PID: 15201
+TID: 3930701056
+String from Client: UPDATE `classics` set `author`='***UNKNOWN***' where `author`='Herman Melville';Select * from `classics`
+Date and Time: Sun Dec  3 16:02:47 2017
+PID: 15201
+TID: 3930701056
+String from Client: UPDATE `classics` set `author`='Herman Melville' where `author`='***UNKNOWN***';Select * from `classics`
+Date and Time: Sun Dec  3 16:02:47 2017
+PID: 15199
+TID: 3930701056
+String from Client: SELECT * from `classics`
+Date and Time: Sun Dec  3 16:02:49 2017
+PID: 15201
+TID: 3930701056
+String from Client: UPDATE `classics` set `author`='***UNKNOWN***' where `author`='Herman Melville';Select * from `classics`
+Date and Time: Sun Dec  3 16:02:50 2017
+PID: 15199
+TID: 3930701056
+String from Client: SELECT * from `classics`
+Date and Time: Sun Dec  3 16:02:51 2017
+PID: 15201
+TID: 3930701056
+String from Client: UPDATE `classics` set `author`='Herman Melville' where `author`='***UNKNOWN***';Select * from `classics`
+Date and Time: Sun Dec  3 16:02:53 2017
+PID: 15201
+TID: 3930701056
+String from Client: UPDATE `classics` set `author`='***UNKNOWN***' where `author`='Herman Melville';Select * from `classics`
+Date and Time: Sun Dec  3 16:02:53 2017
+PID: 15199
+TID: 3930701056
+String from Client: SELECT * from `classics`
+Date and Time: Sun Dec  3 16:02:53 2017
+PID: 15216
+TID: 3930701056
+String from Client: DELETE from `classics` where `author`='Jane Austen'; Select * from `classics`
+Date and Time: Sun Dec  3 16:02:55 2017
+PID: 15201
+TID: 3930701056
+String from Client: UPDATE `classics` set `author`='Herman Melville' where `author`='***UNKNOWN***';Select * from `classics`
+Date and Time: Sun Dec  3 16:02:55 2017
+PID: 15216
+TID: 3930701056
+String from Client: INSERT INTO `classics` (`author`, `title`, `category`, `year`, `isbn`) VALUES ('Jane Austen', 'Pride and Prejudice', 'Fiction', '1811', '9780582506206' ); Select * from `classics`
+Date and Time: Sun Dec  3 16:02:56 2017
+PID: 15199
+TID: 3930701056
+String from Client: SELECT * from `classics`
+Date and Time: Sun Dec  3 16:02:57 2017
+PID: 15201
+TID: 3930701056
+String from Client: UPDATE `classics` set `author`='***UNKNOWN***' where `author`='Herman Melville';Select * from `classics`
+Date and Time: Sun Dec  3 16:02:57 2017
+PID: 15216
+TID: 3930701056
+String from Client: DELETE from `classics` where `author`='Jane Austen'; Select * from `classics`
+Date and Time: Sun Dec  3 16:02:59 2017
+PID: 15201
+TID: 3930701056
+String from Client: UPDATE `classics` set `author`='Herman Melville' where `author`='***UNKNOWN***';Select * from `classics`
+Date and Time: Sun Dec  3 16:02:59 2017
+PID: 15199
+TID: 3930701056
+String from Client: SELECT * from `classics`
+Date and Time: Sun Dec  3 16:02:59 2017
+PID: 15216
+TID: 3930701056
+String from Client: INSERT INTO `classics` (`author`, `title`, `category`, `year`, `isbn`) VALUES ('Jane Austen', 'Pride and Prejudice', 'Fiction', '1811', '9780582506206' ); Select * from `classics`
+Date and Time: Sun Dec  3 16:03:01 2017
+PID: 15201
+TID: 3930701056
+String from Client: UPDATE `classics` set `author`='***UNKNOWN***' where `author`='Herman Melville';Select * from `classics`
+Date and Time: Sun Dec  3 16:03:01 2017
+PID: 15216
+TID: 3930701056
+String from Client: DELETE from `classics` where `author`='Jane Austen'; Select * from `classics`
+Date and Time: Sun Dec  3 16:03:04 2017
+PID: 15216
+TID: 3930701056
+String from Client: INSERT INTO `classics` (`author`, `title`, `category`, `year`, `isbn`) VALUES ('Jane Austen', 'Pride and Prejudice', 'Fiction', '1811', '9780582506206' ); Select * from `classics`

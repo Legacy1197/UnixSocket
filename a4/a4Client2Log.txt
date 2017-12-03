@@ -1,0 +1,357 @@
+Date and Time: Sun Dec  3 16:02:45 2017
+PID: 15200
+TID: 0
+String sent: UPDATE `classics` set `author`='***UNKNOWN***' where `author`='Herman Melville';Select * from `classics`
+Recieved:
+
+author = Mark Twain
+title = The Adventures of Tom Sawyer
+category = Fiction
+year = 1876
+isbn = 9781598184891
+
+author = Charles Darwin
+title = The Origin of Species
+category = Non-Fiction
+year = 1856
+isbn = 9780517123201
+
+author = Charles Dickens
+title = The Old Curiosity Shop
+category = Fiction
+year = 1841
+isbn = 9780099533474
+
+author = William Shakespeare
+title = Romeo and Juliet
+category = Play
+year = 1594
+isbn = 9780192814968
+
+author = ***UNKNOWN***
+title = Moby Dick
+category = Fiction
+year = 1851
+isbn = 9780199535729
+
+author = Jane Austen
+title = Pride and Prejudice
+category = Fiction
+year = 1811
+isbn = 9780582506206
+Date and Time: Sun Dec  3 16:02:47 2017
+PID: 15200
+TID: 0
+String sent: UPDATE `classics` set `author`='Herman Melville' where `author`='***UNKNOWN***';Select * from `classics`
+Recieved:
+
+author = Mark Twain
+title = The Adventures of Tom Sawyer
+category = Fiction
+year = 1876
+isbn = 9781598184891
+
+author = Charles Darwin
+title = The Origin of Species
+category = Non-Fiction
+year = 1856
+isbn = 9780517123201
+
+author = Charles Dickens
+title = The Old Curiosity Shop
+category = Fiction
+year = 1841
+isbn = 9780099533474
+
+author = William Shakespeare
+title = Romeo and Juliet
+category = Play
+year = 1594
+isbn = 9780192814968
+
+author = Herman Melville
+title = Moby Dick
+category = Fiction
+year = 1851
+isbn = 9780199535729
+
+author = Jane Austen
+title = Pride and Prejudice
+category = Fiction
+year = 1811
+isbn = 9780582506206
+Date and Time: Sun Dec  3 16:02:49 2017
+PID: 15200
+TID: 0
+String sent: UPDATE `classics` set `author`='***UNKNOWN***' where `author`='Herman Melville';Select * from `classics`
+Recieved:
+
+author = Mark Twain
+title = The Adventures of Tom Sawyer
+category = Fiction
+year = 1876
+isbn = 9781598184891
+
+author = Charles Darwin
+title = The Origin of Species
+category = Non-Fiction
+year = 1856
+isbn = 9780517123201
+
+author = Charles Dickens
+title = The Old Curiosity Shop
+category = Fiction
+year = 1841
+isbn = 9780099533474
+
+author = William Shakespeare
+title = Romeo and Juliet
+category = Play
+year = 1594
+isbn = 9780192814968
+
+author = ***UNKNOWN***
+title = Moby Dick
+category = Fiction
+year = 1851
+isbn = 9780199535729
+
+author = Jane Austen
+title = Pride and Prejudice
+category = Fiction
+year = 1811
+isbn = 9780582506206
+Date and Time: Sun Dec  3 16:02:51 2017
+PID: 15200
+TID: 0
+String sent: UPDATE `classics` set `author`='Herman Melville' where `author`='***UNKNOWN***';Select * from `classics`
+Recieved:
+
+author = Mark Twain
+title = The Adventures of Tom Sawyer
+category = Fiction
+year = 1876
+isbn = 9781598184891
+
+author = Charles Darwin
+title = The Origin of Species
+category = Non-Fiction
+year = 1856
+isbn = 9780517123201
+
+author = Charles Dickens
+title = The Old Curiosity Shop
+category = Fiction
+year = 1841
+isbn = 9780099533474
+
+author = William Shakespeare
+title = Romeo and Juliet
+category = Play
+year = 1594
+isbn = 9780192814968
+
+author = Herman Melville
+title = Moby Dick
+category = Fiction
+year = 1851
+isbn = 9780199535729
+
+author = Jane Austen
+title = Pride and Prejudice
+category = Fiction
+year = 1811
+isbn = 9780582506206
+Date and Time: Sun Dec  3 16:02:53 2017
+PID: 15200
+TID: 0
+String sent: UPDATE `classics` set `author`='***UNKNOWN***' where `author`='Herman Melville';Select * from `classics`
+Recieved:
+
+author = Mark Twain
+title = The Adventures of Tom Sawyer
+category = Fiction
+year = 1876
+isbn = 9781598184891
+
+author = Charles Darwin
+title = The Origin of Species
+category = Non-Fiction
+year = 1856
+isbn = 9780517123201
+
+author = Charles Dickens
+title = The Old Curiosity Shop
+category = Fiction
+year = 1841
+isbn = 9780099533474
+
+author = William Shakespeare
+title = Romeo and Juliet
+category = Play
+year = 1594
+isbn = 9780192814968
+
+author = ***UNKNOWN***
+title = Moby Dick
+category = Fiction
+year = 1851
+isbn = 9780199535729
+
+author = Jane Austen
+title = Pride and Prejudice
+category = Fiction
+year = 1811
+isbn = 9780582506206
+Date and Time: Sun Dec  3 16:02:55 2017
+PID: 15200
+TID: 0
+String sent: UPDATE `classics` set `author`='Herman Melville' where `author`='***UNKNOWN***';Select * from `classics`
+Recieved:
+
+author = Mark Twain
+title = The Adventures of Tom Sawyer
+category = Fiction
+year = 1876
+isbn = 9781598184891
+
+author = Charles Darwin
+title = The Origin of Species
+category = Non-Fiction
+year = 1856
+isbn = 9780517123201
+
+author = Charles Dickens
+title = The Old Curiosity Shop
+category = Fiction
+year = 1841
+isbn = 9780099533474
+
+author = William Shakespeare
+title = Romeo and Juliet
+category = Play
+year = 1594
+isbn = 9780192814968
+
+author = Herman Melville
+title = Moby Dick
+category = Fiction
+year = 1851
+isbn = 9780199535729
+Date and Time: Sun Dec  3 16:02:57 2017
+PID: 15200
+TID: 0
+String sent: UPDATE `classics` set `author`='***UNKNOWN***' where `author`='Herman Melville';Select * from `classics`
+Recieved:
+
+author = Mark Twain
+title = The Adventures of Tom Sawyer
+category = Fiction
+year = 1876
+isbn = 9781598184891
+
+author = Charles Darwin
+title = The Origin of Species
+category = Non-Fiction
+year = 1856
+isbn = 9780517123201
+
+author = Charles Dickens
+title = The Old Curiosity Shop
+category = Fiction
+year = 1841
+isbn = 9780099533474
+
+author = William Shakespeare
+title = Romeo and Juliet
+category = Play
+year = 1594
+isbn = 9780192814968
+
+author = ***UNKNOWN***
+title = Moby Dick
+category = Fiction
+year = 1851
+isbn = 9780199535729
+
+author = Jane Austen
+title = Pride and Prejudice
+category = Fiction
+year = 1811
+isbn = 9780582506206
+Date and Time: Sun Dec  3 16:02:59 2017
+PID: 15200
+TID: 0
+String sent: UPDATE `classics` set `author`='Herman Melville' where `author`='***UNKNOWN***';Select * from `classics`
+Recieved:
+
+author = Mark Twain
+title = The Adventures of Tom Sawyer
+category = Fiction
+year = 1876
+isbn = 9781598184891
+
+author = Charles Darwin
+title = The Origin of Species
+category = Non-Fiction
+year = 1856
+isbn = 9780517123201
+
+author = Charles Dickens
+title = The Old Curiosity Shop
+category = Fiction
+year = 1841
+isbn = 9780099533474
+
+author = William Shakespeare
+title = Romeo and Juliet
+category = Play
+year = 1594
+isbn = 9780192814968
+
+author = Herman Melville
+title = Moby Dick
+category = Fiction
+year = 1851
+isbn = 9780199535729
+Date and Time: Sun Dec  3 16:03:01 2017
+PID: 15200
+TID: 0
+String sent: UPDATE `classics` set `author`='***UNKNOWN***' where `author`='Herman Melville';Select * from `classics`
+Recieved:
+
+author = Mark Twain
+title = The Adventures of Tom Sawyer
+category = Fiction
+year = 1876
+isbn = 9781598184891
+
+author = Charles Darwin
+title = The Origin of Species
+category = Non-Fiction
+year = 1856
+isbn = 9780517123201
+
+author = Charles Dickens
+title = The Old Curiosity Shop
+category = Fiction
+year = 1841
+isbn = 9780099533474
+
+author = William Shakespeare
+title = Romeo and Juliet
+category = Play
+year = 1594
+isbn = 9780192814968
+
+author = ***UNKNOWN***
+title = Moby Dick
+category = Fiction
+year = 1851
+isbn = 9780199535729
+
+author = Jane Austen
+title = Pride and Prejudice
+category = Fiction
+year = 1811
+isbn = 9780582506206
